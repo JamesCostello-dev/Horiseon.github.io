@@ -1,8 +1,11 @@
 Horiseon Project
 
 Code refactor
+
 Accessability standards
+
 Semantic structure
+
 Comments in code
 
 
