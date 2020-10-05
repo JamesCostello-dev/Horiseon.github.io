@@ -1,13 +1,17 @@
-Horiseon Project
+# Horiseon Project
 
-Code refactor
+## Purpose
+* Code refactor
+* Accessability standards
+* Semantic structure
+* Comments in code
 
-Accessability standards
+## Built With
+* HTML
+* CSS
 
-Semantic structure
+## Website
+https://jamescostello-dev.github.io/Horiseon.github.io/
 
-Comments in code
-
-
-# https://jamescostello-dev.github.io/Horiseon.github.io/
-
+## Contribution
+* James Costello
