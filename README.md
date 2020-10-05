@@ -14,4 +14,4 @@
 https://jamescostello-dev.github.io/Horiseon.github.io/
 
 ## Contribution
-* James Costello
+James Costello
